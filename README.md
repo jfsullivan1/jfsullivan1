@@ -1,6 +1,7 @@
 👋 Hi, I’m John Sullivan
 
 I'm a Masters student at Brown University, and my research interest and focus is in Artificial Intelligence. 
+I'm also a full-time software engineer at Vector Informatik, GmbH!
 
 I'm looking to collaborate on projects for games such as mods or games themselves. Also, any robotics project would interest me as well. 
 
